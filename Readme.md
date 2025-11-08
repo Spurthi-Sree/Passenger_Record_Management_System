@@ -21,7 +21,8 @@
 ## 🛠️ Technologies Used
 
 - Language: C  
-- Platform: Console/Terminal  
+- Platform: Console/Terminal
+- IDE: Visual Studio Code
 - File handling for persistent storage  
 
 ---
@@ -47,20 +48,10 @@ gcc passenger_management.c -o passenger_management
 
 ---
 
-## 💡 Future Improvements
-
-- Date & time validation  
-- GUI interface  
-- Sorting/filtering options  
-- CSV export  
-
----
-
 ## 👨‍💻 Author
 
-- **Your Name**  
+- **J.SPURTHI SREE**  
 - Student | C Programming Enthusiast 🎓  
-- GitHub: [your-github-link](https://github.com/your-username)  
 
 ---
 
