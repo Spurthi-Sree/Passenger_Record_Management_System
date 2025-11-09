@@ -55,9 +55,14 @@ gcc passenger_management.c -o passenger_management
 
 ---
 
-## ⚠️ License
+## 📝 License  
 
-Open source – feel free to use, modify, and distribute.  
+This project is 🧩 **open source** and licensed under the **[MIT License](LICENSE)**.  
+
+📢 **Note:** This project was previously shared as open source without a formal license.  
+It is now officially under the MIT License ✅ — allowing free use, modification, and distribution.  
+
+💡 Feel free to fork, contribute, and build upon this project!  
 
 ---
 
